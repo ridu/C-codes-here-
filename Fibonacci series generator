@@ -1,3 +1,6 @@
+// This is a very simple C program to generate Fibonacci series starting from 0 till the number of digits you want to be displayed, for that...
+//command prompt will ask you to enter the value of n....
+
 #include <stdio.h>
 int fibo(int);
 
